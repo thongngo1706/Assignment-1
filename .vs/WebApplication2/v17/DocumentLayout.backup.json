@@ -1,0 +1,553 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thong\\source\\repos\\WebApplication2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1FC0CB-2E07-4793-B4DD-94BBA81B3D4A}|WebApplication2\\WebApplication2.csproj|c:\\users\\thong\\source\\repos\\webapplication2\\webapplication2\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF1FC0CB-2E07-4793-B4DD-94BBA81B3D4A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1FC0CB-2E07-4793-B4DD-94BBA81B3D4A}|WebApplication2\\WebApplication2.csproj|c:\\users\\thong\\source\\repos\\webapplication2\\webapplication2\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1FC0CB-2E07-4793-B4DD-94BBA81B3D4A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1FC0CB-2E07-4793-B4DD-94BBA81B3D4A}|WebApplication2\\WebApplication2.csproj|c:\\users\\thong\\source\\repos\\webapplication2\\webapplication2\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1FC0CB-2E07-4793-B4DD-94BBA81B3D4A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1FC0CB-2E07-4793-B4DD-94BBA81B3D4A}|WebApplication2\\WebApplication2.csproj|c:\\users\\thong\\source\\repos\\webapplication2\\webapplication2\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1FC0CB-2E07-4793-B4DD-94BBA81B3D4A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1FC0CB-2E07-4793-B4DD-94BBA81B3D4A}|WebApplication2\\WebApplication2.csproj|c:\\users\\thong\\source\\repos\\webapplication2\\webapplication2\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1FC0CB-2E07-4793-B4DD-94BBA81B3D4A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1FC0CB-2E07-4793-B4DD-94BBA81B3D4A}|WebApplication2\\WebApplication2.csproj|c:\\users\\thong\\source\\repos\\webapplication2\\webapplication2\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF1FC0CB-2E07-4793-B4DD-94BBA81B3D4A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1FC0CB-2E07-4793-B4DD-94BBA81B3D4A}|WebApplication2\\WebApplication2.csproj|c:\\users\\thong\\source\\repos\\webapplication2\\webapplication2\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF1FC0CB-2E07-4793-B4DD-94BBA81B3D4A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1FC0CB-2E07-4793-B4DD-94BBA81B3D4A}|WebApplication2\\WebApplication2.csproj|c:\\users\\thong\\source\\repos\\webapplication2\\webapplication2\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1FC0CB-2E07-4793-B4DD-94BBA81B3D4A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1FC0CB-2E07-4793-B4DD-94BBA81B3D4A}|WebApplication2\\WebApplication2.csproj|c:\\users\\thong\\source\\repos\\webapplication2\\webapplication2\\data\\enum\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1FC0CB-2E07-4793-B4DD-94BBA81B3D4A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\data\\enum\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1FC0CB-2E07-4793-B4DD-94BBA81B3D4A}|WebApplication2\\WebApplication2.csproj|c:\\users\\thong\\source\\repos\\webapplication2\\webapplication2\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1FC0CB-2E07-4793-B4DD-94BBA81B3D4A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1FC0CB-2E07-4793-B4DD-94BBA81B3D4A}|WebApplication2\\WebApplication2.csproj|c:\\users\\thong\\source\\repos\\webapplication2\\webapplication2\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1FC0CB-2E07-4793-B4DD-94BBA81B3D4A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1FC0CB-2E07-4793-B4DD-94BBA81B3D4A}|WebApplication2\\WebApplication2.csproj|c:\\users\\thong\\source\\repos\\webapplication2\\webapplication2\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1FC0CB-2E07-4793-B4DD-94BBA81B3D4A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1FC0CB-2E07-4793-B4DD-94BBA81B3D4A}|WebApplication2\\WebApplication2.csproj|c:\\users\\thong\\source\\repos\\webapplication2\\webapplication2\\views\\payment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF1FC0CB-2E07-4793-B4DD-94BBA81B3D4A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\payment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1FC0CB-2E07-4793-B4DD-94BBA81B3D4A}|WebApplication2\\WebApplication2.csproj|c:\\users\\thong\\source\\repos\\webapplication2\\webapplication2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF1FC0CB-2E07-4793-B4DD-94BBA81B3D4A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1FC0CB-2E07-4793-B4DD-94BBA81B3D4A}|WebApplication2\\WebApplication2.csproj|c:\\users\\thong\\source\\repos\\webapplication2\\webapplication2\\data\\enum\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1FC0CB-2E07-4793-B4DD-94BBA81B3D4A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\data\\enum\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1FC0CB-2E07-4793-B4DD-94BBA81B3D4A}|WebApplication2\\WebApplication2.csproj|c:\\users\\thong\\source\\repos\\webapplication2\\webapplication2\\models\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1FC0CB-2E07-4793-B4DD-94BBA81B3D4A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1FC0CB-2E07-4793-B4DD-94BBA81B3D4A}|WebApplication2\\WebApplication2.csproj|c:\\users\\thong\\source\\repos\\webapplication2\\webapplication2\\controllers\\orderdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1FC0CB-2E07-4793-B4DD-94BBA81B3D4A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\orderdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1FC0CB-2E07-4793-B4DD-94BBA81B3D4A}|WebApplication2\\WebApplication2.csproj|c:\\users\\thong\\source\\repos\\webapplication2\\webapplication2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF1FC0CB-2E07-4793-B4DD-94BBA81B3D4A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1FC0CB-2E07-4793-B4DD-94BBA81B3D4A}|WebApplication2\\WebApplication2.csproj|c:\\users\\thong\\source\\repos\\webapplication2\\webapplication2\\migrations\\20240928062422_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1FC0CB-2E07-4793-B4DD-94BBA81B3D4A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\migrations\\20240928062422_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1FC0CB-2E07-4793-B4DD-94BBA81B3D4A}|WebApplication2\\WebApplication2.csproj|c:\\users\\thong\\source\\repos\\webapplication2\\webapplication2\\models\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1FC0CB-2E07-4793-B4DD-94BBA81B3D4A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1FC0CB-2E07-4793-B4DD-94BBA81B3D4A}|WebApplication2\\WebApplication2.csproj|c:\\users\\thong\\source\\repos\\webapplication2\\webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1FC0CB-2E07-4793-B4DD-94BBA81B3D4A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1FC0CB-2E07-4793-B4DD-94BBA81B3D4A}|WebApplication2\\WebApplication2.csproj|c:\\users\\thong\\source\\repos\\webapplication2\\webapplication2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1FC0CB-2E07-4793-B4DD-94BBA81B3D4A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1FC0CB-2E07-4793-B4DD-94BBA81B3D4A}|WebApplication2\\WebApplication2.csproj|c:\\users\\thong\\source\\repos\\webapplication2\\webapplication2\\data\\enum\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1FC0CB-2E07-4793-B4DD-94BBA81B3D4A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\data\\enum\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1FC0CB-2E07-4793-B4DD-94BBA81B3D4A}|WebApplication2\\WebApplication2.csproj|c:\\users\\thong\\source\\repos\\webapplication2\\webapplication2\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1FC0CB-2E07-4793-B4DD-94BBA81B3D4A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1FC0CB-2E07-4793-B4DD-94BBA81B3D4A}|WebApplication2\\WebApplication2.csproj|c:\\users\\thong\\source\\repos\\webapplication2\\webapplication2\\data\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1FC0CB-2E07-4793-B4DD-94BBA81B3D4A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\data\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1FC0CB-2E07-4793-B4DD-94BBA81B3D4A}|WebApplication2\\WebApplication2.csproj|c:\\users\\thong\\source\\repos\\webapplication2\\webapplication2\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1FC0CB-2E07-4793-B4DD-94BBA81B3D4A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1FC0CB-2E07-4793-B4DD-94BBA81B3D4A}|WebApplication2\\WebApplication2.csproj|c:\\users\\thong\\source\\repos\\webapplication2\\webapplication2\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1FC0CB-2E07-4793-B4DD-94BBA81B3D4A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1FC0CB-2E07-4793-B4DD-94BBA81B3D4A}|WebApplication2\\WebApplication2.csproj|c:\\users\\thong\\source\\repos\\webapplication2\\webapplication2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FF1FC0CB-2E07-4793-B4DD-94BBA81B3D4A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1FC0CB-2E07-4793-B4DD-94BBA81B3D4A}|WebApplication2\\WebApplication2.csproj|c:\\users\\thong\\source\\repos\\webapplication2\\webapplication2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF1FC0CB-2E07-4793-B4DD-94BBA81B3D4A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1FC0CB-2E07-4793-B4DD-94BBA81B3D4A}|WebApplication2\\WebApplication2.csproj|c:\\users\\thong\\source\\repos\\webapplication2\\webapplication2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF1FC0CB-2E07-4793-B4DD-94BBA81B3D4A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1FC0CB-2E07-4793-B4DD-94BBA81B3D4A}|WebApplication2\\WebApplication2.csproj|c:\\users\\thong\\source\\repos\\webapplication2\\webapplication2\\migrations\\20240928062422_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1FC0CB-2E07-4793-B4DD-94BBA81B3D4A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\migrations\\20240928062422_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1FC0CB-2E07-4793-B4DD-94BBA81B3D4A}|WebApplication2\\WebApplication2.csproj|c:\\users\\thong\\source\\repos\\webapplication2\\webapplication2\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF1FC0CB-2E07-4793-B4DD-94BBA81B3D4A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1FC0CB-2E07-4793-B4DD-94BBA81B3D4A}|WebApplication2\\WebApplication2.csproj|c:\\users\\thong\\source\\repos\\webapplication2\\webapplication2\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF1FC0CB-2E07-4793-B4DD-94BBA81B3D4A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20240928062422_InitialCreate.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\thong\\source\\repos\\WebApplication2\\WebApplication2\\Migrations\\20240928062422_InitialCreate.Designer.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Migrations\\20240928062422_InitialCreate.Designer.cs",
+              "ToolTip": "C:\\Users\\thong\\source\\repos\\WebApplication2\\WebApplication2\\Migrations\\20240928062422_InitialCreate.Designer.cs",
+              "RelativeToolTip": "WebApplication2\\Migrations\\20240928062422_InitialCreate.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T10:18:26.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\thong\\source\\repos\\WebApplication2\\WebApplication2\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\thong\\source\\repos\\WebApplication2\\WebApplication2\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T09:52:14.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\thong\\source\\repos\\WebApplication2\\WebApplication2\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\thong\\source\\repos\\WebApplication2\\WebApplication2\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T09:52:13.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\thong\\source\\repos\\WebApplication2\\WebApplication2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\thong\\source\\repos\\WebApplication2\\WebApplication2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAB2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T09:52:12.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\thong\\source\\repos\\WebApplication2\\WebApplication2\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\thong\\source\\repos\\WebApplication2\\WebApplication2\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T09:52:02.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\thong\\source\\repos\\WebApplication2\\WebApplication2\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\thong\\source\\repos\\WebApplication2\\WebApplication2\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T09:52:02.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\thong\\source\\repos\\WebApplication2\\WebApplication2\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\thong\\source\\repos\\WebApplication2\\WebApplication2\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T09:51:11.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\thong\\source\\repos\\WebApplication2\\WebApplication2\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\thong\\source\\repos\\WebApplication2\\WebApplication2\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "WebApplication2\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T09:48:30.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\thong\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\thong\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T09:48:19.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Orderdetails.cs",
+              "DocumentMoniker": "C:\\Users\\thong\\source\\repos\\WebApplication2\\WebApplication2\\Models\\Orderdetails.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\Orderdetails.cs",
+              "ToolTip": "C:\\Users\\thong\\source\\repos\\WebApplication2\\WebApplication2\\Models\\Orderdetails.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\Orderdetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T09:46:03.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\thong\\source\\repos\\WebApplication2\\WebApplication2\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\thong\\source\\repos\\WebApplication2\\WebApplication2\\Models\\Customer.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T09:45:25.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\thong\\source\\repos\\WebApplication2\\WebApplication2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\thong\\source\\repos\\WebApplication2\\WebApplication2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T07:48:11.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\thong\\source\\repos\\WebApplication2\\WebApplication2\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\thong\\source\\repos\\WebApplication2\\WebApplication2\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T07:46:24.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\thong\\source\\repos\\WebApplication2\\WebApplication2\\Views\\Payment\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Payment\\Index.cshtml",
+              "ToolTip": "C:\\Users\\thong\\source\\repos\\WebApplication2\\WebApplication2\\Views\\Payment\\Index.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Payment\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T07:46:19.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\thong\\source\\repos\\WebApplication2\\WebApplication2\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Order\\Index.cshtml",
+              "ToolTip": "C:\\Users\\thong\\source\\repos\\WebApplication2\\WebApplication2\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Order\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T07:46:08.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\thong\\source\\repos\\WebApplication2\\WebApplication2\\Views\\Customer\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Customer\\Index.cshtml",
+              "ToolTip": "C:\\Users\\thong\\source\\repos\\WebApplication2\\WebApplication2\\Views\\Customer\\Index.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Customer\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T07:46:03.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\thong\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\thong\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\PaymentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T07:43:18.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrderDetailsController.cs",
+              "DocumentMoniker": "C:\\Users\\thong\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\OrderDetailsController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\OrderDetailsController.cs",
+              "ToolTip": "C:\\Users\\thong\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\OrderDetailsController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\OrderDetailsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T07:42:46.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\thong\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\thong\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T07:41:00.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\thong\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\thong\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T07:40:38.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\thong\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\thong\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T07:40:04.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Seed.cs",
+              "DocumentMoniker": "C:\\Users\\thong\\source\\repos\\WebApplication2\\WebApplication2\\Data\\Seed.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Data\\Seed.cs",
+              "ToolTip": "C:\\Users\\thong\\source\\repos\\WebApplication2\\WebApplication2\\Data\\Seed.cs",
+              "RelativeToolTip": "WebApplication2\\Data\\Seed.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAAANQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T06:29:07.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20240928062422_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\thong\\source\\repos\\WebApplication2\\WebApplication2\\Migrations\\20240928062422_InitialCreate.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Migrations\\20240928062422_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\thong\\source\\repos\\WebApplication2\\WebApplication2\\Migrations\\20240928062422_InitialCreate.cs",
+              "RelativeToolTip": "WebApplication2\\Migrations\\20240928062422_InitialCreate.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T06:24:23.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thong\\source\\repos\\WebApplication2\\WebApplication2\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Program.cs",
+              "ToolTip": "C:\\Users\\thong\\source\\repos\\WebApplication2\\WebApplication2\\Program.cs",
+              "RelativeToolTip": "WebApplication2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T06:08:30.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\thong\\source\\repos\\WebApplication2\\WebApplication2\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication2\\appsettings.json",
+              "ToolTip": "C:\\Users\\thong\\source\\repos\\WebApplication2\\WebApplication2\\appsettings.json",
+              "RelativeToolTip": "WebApplication2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-28T06:08:28.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\thong\\source\\repos\\WebApplication2\\WebApplication2\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\thong\\source\\repos\\WebApplication2\\WebApplication2\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WebApplication2\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T05:34:36.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProductCategory.cs",
+              "DocumentMoniker": "C:\\Users\\thong\\source\\repos\\WebApplication2\\WebApplication2\\Data\\Enum\\ProductCategory.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Data\\Enum\\ProductCategory.cs",
+              "ToolTip": "C:\\Users\\thong\\source\\repos\\WebApplication2\\WebApplication2\\Data\\Enum\\ProductCategory.cs",
+              "RelativeToolTip": "WebApplication2\\Data\\Enum\\ProductCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T05:32:35.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PaymentMethod.cs",
+              "DocumentMoniker": "C:\\Users\\thong\\source\\repos\\WebApplication2\\WebApplication2\\Data\\Enum\\PaymentMethod.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Data\\Enum\\PaymentMethod.cs",
+              "ToolTip": "C:\\Users\\thong\\source\\repos\\WebApplication2\\WebApplication2\\Data\\Enum\\PaymentMethod.cs",
+              "RelativeToolTip": "WebApplication2\\Data\\Enum\\PaymentMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T05:32:22.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\thong\\source\\repos\\WebApplication2\\WebApplication2\\Data\\Enum\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Data\\Enum\\OrderStatus.cs",
+              "ToolTip": "C:\\Users\\thong\\source\\repos\\WebApplication2\\WebApplication2\\Data\\Enum\\OrderStatus.cs",
+              "RelativeToolTip": "WebApplication2\\Data\\Enum\\OrderStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T05:32:03.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Store.cs",
+              "DocumentMoniker": "C:\\Users\\thong\\source\\repos\\WebApplication2\\WebApplication2\\Models\\Store.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\Store.cs",
+              "ToolTip": "C:\\Users\\thong\\source\\repos\\WebApplication2\\WebApplication2\\Models\\Store.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\Store.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T05:26:05.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\thong\\source\\repos\\WebApplication2\\WebApplication2\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\Payment.cs",
+              "ToolTip": "C:\\Users\\thong\\source\\repos\\WebApplication2\\WebApplication2\\Models\\Payment.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T05:25:40.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\thong\\source\\repos\\WebApplication2\\WebApplication2\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\thong\\source\\repos\\WebApplication2\\WebApplication2\\Models\\Product.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T05:25:15.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\thong\\source\\repos\\WebApplication2\\WebApplication2\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\thong\\source\\repos\\WebApplication2\\WebApplication2\\Models\\Order.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T05:24:01.571Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

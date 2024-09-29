@@ -1,0 +1,31 @@
+﻿@model IEnumerable<WebApplication2.Models.Customer>
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<h2>Danh sách Người dùng</h2>
+<table border="1" cellpadding="5">
+    <thead>
+        <tr>
+            <th>User ID</th>
+            <th>Tên</th>
+            <th>Email</th>
+            <th>Địa chỉ</th>
+            <th>Reward</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model)
+        {
+            <tr>
+                <td>@user.CustomerID</td>
+                <td>@user.CustomerName</td>
+                <td>@user.Email</td>
+                <td>@user.CustomerAddress</td>
+                <td>@user.Reward</td>
+            </tr>
+        }
+    </tbody>
+</table>

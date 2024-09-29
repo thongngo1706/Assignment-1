@@ -1,0 +1,21 @@
+﻿@model IEnumerable<WebApplication2.Models.Payment>
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{}
+<h2>Danh sách Thanh toán</h2>
+
+@foreach (var payment in Model)
+{
+    <form asp-action="ProcessPayment" method="post">
+        <input type="hidden" name="orderId" value="@payment.OrderID" />
+        <label>Chọn phương thức thanh toán:</label>
+        <select name="paymentMethod">
+            <option value="CreditCard">Thẻ tín dụng</option>
+            <option value="Ewallet">Ví điện tử</option>
+            <option value="Cash">Tiền mặt</option>
+        </select>
+        <br /><br />
+        <input type="submit" value="Thanh toán" />
+    </form>
+}
